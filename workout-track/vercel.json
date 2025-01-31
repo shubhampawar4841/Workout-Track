@@ -1,0 +1,9 @@
+{
+    "builds": [
+      {
+        "src": "dist/workout-track/**/*",
+        "use": "@vercel/static"
+      }
+    ]
+  }
+  
