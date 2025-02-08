@@ -17,7 +17,6 @@ Chart.register(...registerables);
   <section class="content">
     <app-workout-form></app-workout-form>
     <app-workout-list></app-workout-list>
-    <app-workout-list></app-workout-list>
     <app-workout-chart></app-workout-chart>  <!-- ✅ Add Chart Component -->
   </section>
 </main>
